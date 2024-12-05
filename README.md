@@ -1,6 +1,6 @@
 # ✨ Vovacodes | Portfolio ✨
 
-#### 🔥 Try it online: [https://www.vovacodes.ca/](https://www.vovacodes.ca/)
+#### 🔥 Try it online: [https://www.vovacodes.ca/]
 
 #### 🔥 If you really liked the project, consider giving it a star ⭐
 
